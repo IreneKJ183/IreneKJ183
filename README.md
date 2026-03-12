@@ -25,14 +25,14 @@ The platform includes ambient sound environments, chatrooms, and productivity to
 <li>Implemented interactive functionality using JavaScript</li>
 </ul>
   
-🔗 <a href="https://piperharris.github.io/offcampus/Off-Campus%20Classroom.html">View Off-Campus Classroom Page</a>  
-🔗 <a href="https://github.com/Irenekj64/offcampus">View Repository</a>
+🔗 [Live Page](https://piperharris.github.io/offcampus/Off-Campus%20Classroom.html)  
+🔗 [Off-Campus Classroom](https://github.com/Irenekj64/offcampus)
 
 <b>2. Burrito King Restaurant Ordering System</b>  
 University project building a restaurant ordering system using a relational database and MVC architecture.  
 Designed database tables for users, orders, food items, and order items with foreign key relationships.
 
-🔗 <a href="https://github.com/FurtherProgramming2410/burrito-king-restaurant-Irenekj64">View Repository</a>
+🔗 [Restaurant Ordering System](https://github.com/FurtherProgramming2410/burrito-king-restaurant-Irenekj64)
 
 ---
 
