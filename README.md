@@ -10,10 +10,29 @@ This portfolio showcases my university projects, cybersecurity labs, and general
 </p>
 
 ---
-
 <h2>🎓 University Projects</h2>
 
+<b>1. Virtual Study Spaces Website (Group Project)</b>
 
+First-year university project developing a website that simulates different study environments to help students focus and improve productivity.  
+The platform includes ambient sound environments, chatrooms, and productivity tools such as a Pomodoro timer.
+
+<b>My Contribution</b>
+<ul>
+<li>Developed the Off-Campus Classroom page</li>
+<li>Designed the HTML layout and user interface</li>
+<li>Styled the page using CSS</li>
+<li>Implemented interactive functionality using JavaScript</li>
+</ul>
+  
+🔗 <a href="https://piperharris.github.io/offcampus/Off-Campus%20Classroom.html">View Off-Campus Classroom Page</a>  
+🔗 <a href="https://github.com/Irenekj64/offcampus">View Repository</a>
+
+<b>2. Burrito King Restaurant Ordering System</b>  
+University project building a restaurant ordering system using a relational database and MVC architecture.  
+Designed database tables for users, orders, food items, and order items with foreign key relationships.
+
+🔗 <a href="https://github.com/FurtherProgramming2410/burrito-king-restaurant-Irenekj64">View Repository</a>
 
 ---
 
@@ -31,9 +50,9 @@ This portfolio showcases my university projects, cybersecurity labs, and general
 <h2>🛠 Technical Skills</h2>
 
 <b>Programming & Development</b>
-- Python
-- JavaScript
+- Java
 - HTML/CSS
+- Python
 
 <b>Cybersecurity Concepts</b>
 - Cryptography
